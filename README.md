@@ -2,11 +2,11 @@
 🪐 A creative interested in building everything cool under the sun (this does not include physical houses, unfortunately).
 
 🌱 I'm currently learning CSS and Javascript frameworks, including Tailwind and Vue.js! I am also tackling the Unity game 
-engine, python, and funky designs.
+engine, python, and making funky designs.
 
-⚡ Some of my hobibes include writing, shredding the guitar, daydreaming, digital art, and composing!
+⚡ Some of my hobibes include writing, shredding the guitar, day dreaming, digital art, and composing!
 
-💬 Ask me anything about your crazy project idea! The craziest impossible-est ideas are the most fun. 
+💬 Tell me about your crazy project idea! The craziest impossible-est ideas are the most fun. 
 
 📫 You can reach out to me at datta.td.d@gmail.com!
 
