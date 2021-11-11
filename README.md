@@ -1,4 +1,14 @@
-### Hi there 👋
+### What's down (outerspace)? I'm George!
+🪐 A creative interested in building everything cool under the sun (this does not include physical houses, unfortunately).
+
+🌱 I'm currently learning CSS and Javascript frameworks, including Tailwind and Vue.js! I am also tackling the Unity game 
+engine, python, and funky designs.
+
+⚡ Some of my hobibes include writing, shredding the guitar, daydreaming, digital art, and composing!
+
+💬 Ask me anything about your crazy project idea! The craziest impossible-est ideas are the most fun. 
+
+📫 You can reach out to me at datta.td.d@gmail.com!
 
 <!--
 **GeorgeQQJelly/GeorgeQQJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
