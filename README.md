@@ -1,4 +1,4 @@
-### What's down (outerspace)? I'm George!
+### What's down? I'm George!
 🪐 A creative interested in building everything cool under the sun (this does not include physical houses, unfortunately).
 
 🌱 I'm currently learning CSS and Javascript frameworks, including Tailwind and Vue.js! I am also tackling the Unity game 
