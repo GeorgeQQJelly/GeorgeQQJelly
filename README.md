@@ -1,12 +1,9 @@
 ### What's down? I'm George!
-🪐 A creative interested in building everything cool under the sun (this does not include physical houses, unfortunately).
 
 🌱 I'm currently learning Javascript frameworks, including Vue.js and React.js! I am also tackling the Unity game 
-engine, python, and making funky designs.
+engine, Python, and making funky designs.
 
-⚡ Some of my hobibes include writing, shredding the guitar, day dreaming, digital art, and composing!
-
-💬 Tell me about your crazy project idea! The craziest impossible-est ideas are the most fun. 
+⚡ Some of my hobibes include writing, shredding the guitar, digital art, and composing! 
 
 📫 You can reach out to me at datta.td.d@gmail.com!
 
